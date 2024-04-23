@@ -14,6 +14,7 @@
 
 ```
 ├── README.md
+└── data  : 실습용 Dataset
 └── week1 : 1주차 자료
 ```
 

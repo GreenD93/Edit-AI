@@ -22,7 +22,7 @@
 
 ### 커리큘럼
 - (1) 1주차 - [[발표 자료]](https://github.com/GreenD93/Edit-AI/tree/main/week1/notebooks)
-  - (15분) OT : 자기소개 및 공부해보고 싶은 내용 공유
+  - (15분) OT : 스터디 목표 소개, 자기소개 및 공부해보고 싶은 내용 공유
   - (20분) python 기초
   - (20분) AI / ML 소개
 

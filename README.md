@@ -26,9 +26,14 @@
   - (20분) python 기초
   - (20분) AI / ML 소개
 
+- (1) 2주차 - [[발표 자료]](https://github.com/GreenD93/Edit-AI/tree/main/week2/notebooks)
+  - (5분) week1 - python 질의
+  - (20분) ChatGPT(prompt engineering) - 1
+  - (20분) ChatGPT(prompt engineering) - 2
 ---
 
 ### 참고 자료
 - [[파이썬 머신러닝 완벽 가이드]](https://product.kyobobook.co.kr/detail/S000001766511)
 - [[파이토치 첫걸음]](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000002942380)
 - [[파이썬 클린 코드]](https://product.kyobobook.co.kr/detail/S000200031876)
+- [[Microsoft AI Tour]]([https://product.kyobobook.co.kr/detail/S000200031876](https://microsoft.github.io/Workshop-Interact-with-OpenAI-models/ko/))

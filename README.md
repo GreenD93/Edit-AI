@@ -37,4 +37,4 @@
 - [[파이썬 머신러닝 완벽 가이드]](https://product.kyobobook.co.kr/detail/S000001766511)
 - [[파이토치 첫걸음]](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000002942380)
 - [[파이썬 클린 코드]](https://product.kyobobook.co.kr/detail/S000200031876)
-- [[Microsoft AI Tour]](https://microsoft.github.io/Workshop-Interact-with-OpenAI-models/ko/))
+- [[Microsoft AI Tour]](https://microsoft.github.io/Workshop-Interact-with-OpenAI-models/ko/)

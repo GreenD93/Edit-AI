@@ -22,15 +22,15 @@
 ---
 
 ### 커리큘럼
-- (1) 1주차 - [[발표 자료]](https://github.com/GreenD93/Edit-AI/tree/main/week1/notebooks)
+- (1) 1주차 - [[발표 자료]](https://github.com/GreenD93/Edit-AI/tree/main/week1)
   - (15분) OT : 스터디 목표 소개, 자기소개 및 공부해보고 싶은 내용 공유
   - (20분) python 기초
   - (20분) AI / ML 소개
 
-- (1) 2주차 - [[발표 자료]](https://github.com/GreenD93/Edit-AI/tree/main/week2/notebooks)
+- (1) 2주차 - [[발표 자료]](https://github.com/GreenD93/Edit-AI/tree/main/week2)
   - (5분) week1 - python 질의
-  - (20분) ChatGPT(prompt engineering) - 1
-  - (20분) ChatGPT(prompt engineering) - 2
+  - (20분) ChatGPT
+  - (30분) prompt engineering
 ---
 
 ### 참고 자료

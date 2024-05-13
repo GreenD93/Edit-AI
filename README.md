@@ -27,7 +27,7 @@
   - (20분) python 기초
   - (20분) AI / ML 소개
 
-- (1) 2주차 - [[발표 자료]](https://github.com/GreenD93/Edit-AI/tree/main/week2)
+- (2) 2주차 - [[발표 자료]](https://github.com/GreenD93/Edit-AI/tree/main/week2)
   - (5분) week1 - python 질의
   - (20분) ChatGPT
   - (30분) prompt engineering

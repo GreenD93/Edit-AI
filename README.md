@@ -31,6 +31,10 @@
   - (5분) week1 - python 질의
   - (20분) ChatGPT
   - (30분) prompt engineering
+
+- (3) 2주차 - [[발표 자료]](https://github.com/GreenD93/Edit-AI/tree/main/week3)
+  - (30분) Embedding
+  - (30분) LangChain & Chatbot
 ---
 
 ### 참고 자료
@@ -38,3 +42,4 @@
 - [[파이토치 첫걸음]](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000002942380)
 - [[파이썬 클린 코드]](https://product.kyobobook.co.kr/detail/S000200031876)
 - [[Microsoft AI Tour]](https://microsoft.github.io/Workshop-Interact-with-OpenAI-models/ko/)
+- [[<랭체인LangChain 노트> - LangChain 한국어 튜토리얼]](https://wikidocs.net/book/14314)
